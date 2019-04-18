@@ -20,6 +20,48 @@
       "occupation": "Lives under the sea",
       "weapon": "Crabby Patty",
       "cartoon": true
+    },
+    {
+      "name": "berni",
+      "occupation": "phd",
+      "weapon": "mind",
+      "cartoon": "on",
+      "id": 4
+    },
+    {
+      "name": "wdmawkdm",
+      "occupation": "dkwmdk",
+      "weapon": "dw",
+      "cartoon": "on",
+      "id": 5
+    },
+    {
+      "name": "wdmk",
+      "occupation": "dwdm",
+      "weapon": "kd",
+      "cartoon": "on",
+      "id": 6
+    },
+    {
+      "name": "wdmk",
+      "occupation": "dwdm",
+      "weapon": "kd",
+      "cartoon": "on",
+      "id": 7
+    },
+    {
+      "name": "wdw",
+      "occupation": "dwd",
+      "weapon": "sc",
+      "cartoon": "on",
+      "id": 8
+    },
+    {
+      "name": "wdw",
+      "occupation": "dwd",
+      "weapon": "sc",
+      "cartoon": "on",
+      "id": 9
     }
   ]
 }
